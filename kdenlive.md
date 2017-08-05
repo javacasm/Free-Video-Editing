@@ -28,3 +28,5 @@ sudo apt install kdenlive
 [Vídeo dentro de vídeo](https://www.youtube.com/watch?v=Ds-3s3jOr58)
 
 [Añadir texto a un vídeo](https://www.youtube.com/watch?v=PC5Y3pgJ_Tc)
+
+[Manejo de titulos](https://userbase.kde.org/Kdenlive/Manual/Titles)
