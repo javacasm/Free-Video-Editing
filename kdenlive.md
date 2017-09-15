@@ -30,3 +30,5 @@ sudo apt install kdenlive
 [Añadir texto a un vídeo](https://www.youtube.com/watch?v=PC5Y3pgJ_Tc)
 
 [Manejo de titulos](https://userbase.kde.org/Kdenlive/Manual/Titles)
+
+[Hace pan-zoom](https://www.youtube.com/watch?v=TRbfXX_fpds)
