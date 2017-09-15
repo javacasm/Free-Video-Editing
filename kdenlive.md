@@ -31,4 +31,4 @@ sudo apt install kdenlive
 
 [Manejo de titulos](https://userbase.kde.org/Kdenlive/Manual/Titles)
 
-[Hace pan-zoom](https://www.youtube.com/watch?v=TRbfXX_fpds)
+[Hacer pan-zoom](https://www.youtube.com/watch?v=TRbfXX_fpds)
